@@ -16,7 +16,7 @@ PREFIX = string : prefix to install (default "/usr") <br/>
 asroot = string : program that runs as root (default sudo, doas works)
 
 ## thanks for
-{Sweets](https://github.com/Sweets) for [tiramisu](https://github.com/Sweets/tiramisu)
+[Sweets](https://github.com/Sweets) for [tiramisu](https://github.com/Sweets/tiramisu)
 [dudik](https://github.com/dudik) for [herbe](https://github.com/dudik/herbe)
 
 ## notes
